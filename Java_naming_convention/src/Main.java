@@ -2,6 +2,7 @@
 import java.util.*;//kolay kullanım yöntemi
 import javafx.scene.Node;
 
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 
 public class Main {
     public static void main(String[] args) {
